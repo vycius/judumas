@@ -10,7 +10,7 @@ gtfs-kit==5.2.3
 pyarrow==8.0.0
 nbstripout==0.5.0
 diagrams==0.21.1
-kaleido==0.2.1
+kaleido==0.2.1.post1
 lxml==4.9.1
 tabulate==0.8.10
 openpyxl==3.0.10
